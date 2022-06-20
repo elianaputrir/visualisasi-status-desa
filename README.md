@@ -53,7 +53,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Status Desa Berdasarkan Indeks Desa Membangun (IDM) 2021 Provinsi Kalimantan Barat 
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![Product Name Screen Shot][product-screenshot]
 
 Indeks Desa Membangun (IDM) adalah indeks yang dibuat oleh Kementrian Desa, Pembangunan Daerah Tertinggal, dan Transmigrasi Republik Indonesia untuk mengetahui status perkembangan setiap desa dari aspek ekonomi, ekologi dan sosial. Pembuatan IDM bertujuan untuk menjadi alat ukur pemerataan pembangunan di seluruh wilayah Indonesia. Indeks ini dapat dikelompokkan menjadi 4 kategori status yaitu tertinggal, berkembang, maju ,dan mandiri.
 
@@ -87,10 +87,10 @@ Berikut ini adalah langkah-langkah untuk melakukan visualisasi data Status Desa 
 3. Memasukkan variabel status desa, nama desa dan nilai idm
    ![step-three1-screen-shoot][step-3-1-screenshoot]
 
-   Pallete warna yang digunakan adalah red-gold
+   Pallete warna yang digunakan adalah red-gold       
    ![step-three2-screen-shoot][step-3-2-screenshoot]
   
-4. Menambahkan judul dari visualisasi
+4. Menambahkan judul dari visualisasi            
    ![step-four-screen-shoot][step-4-screenshoot]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
